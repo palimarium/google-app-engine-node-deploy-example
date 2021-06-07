@@ -1,0 +1,22 @@
+{
+  "name": "google-app-engine-node-deploy-example",
+  "version": "1.0.0",
+  "description": "Example of Node.js app deployment setup on Google App Engine using Github Actions.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ognus/google-app-engine-node-deploy-example.git"
+  },
+  "author": "Tomasz Kolasa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ognus/google-app-engine-node-deploy-example/issues"
+  },
+  "homepage": "https://github.com/ognus/google-app-engine-node-deploy-example#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
